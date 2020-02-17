@@ -1,2 +1,11 @@
-# neomorphik-docs
-Documentation site for Neomorphik NPM Module
+# Neomorphik Documentation - neomorphik.com 
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+### `npm test`
+
+### `npm run build`
